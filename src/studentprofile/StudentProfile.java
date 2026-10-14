@@ -8,19 +8,17 @@
  * *****************************************************************************/
 package studentprofile;
 
-/**
- *
- * @author MRPC
- */
 public class StudentProfile {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Name: Nurhfizah binti Mahmuda");
+        System.out.println("Name: Nurhafizah binti Mahmuda");
         System.out.println("Student ID: S85571");
         System.out.println("Programme: Bachelor of Computer Science with Maritime Informatics");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
